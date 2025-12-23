@@ -3,13 +3,13 @@ import Banner from "./components/Banner";
 import FeaturedProducts from "./components/FeaturedProducts";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
-import New_Arrivals from "./components/New-Arrivals";
+import NewArrivals from "./components/NewArrivals";
 import ShopCategory from "./components/ShopCategory";
 import Subscription from "./components/Subscription";
-import Summer_sale from "./components/Summer-Sale";
+import SummerSale from "./components/SummerSale";
 import Testmonial from "./components/Testmonial";
+import SocialMedia from "./components/SocialMedia";
 
-import Social_Media from "./components/social-media";
 
 function App(){
 
@@ -19,10 +19,10 @@ function App(){
     <Banner/>
     <ShopCategory/>
     <FeaturedProducts/>
-    <Summer_sale/>
-    <New_Arrivals/>
+    <SummerSale/>
+    <NewArrivals/>
     <Testmonial/>
-    <Social_Media/>
+    <SocialMedia/>
     <Subscription/>
     <Footer/>
   

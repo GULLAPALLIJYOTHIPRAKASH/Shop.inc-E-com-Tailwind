@@ -1,7 +1,7 @@
 import scarf from "../assets/Scarf.jpg";
 import leather_handbag from "../assets/leather-handbag.jpg";
 import sunglasses from "../assets/sunglasses.jpg";
-function New_Arrivals(){
+function NewArrivals(){
 
     return(<>
      <div className="new-arrivals-container py-16">
@@ -91,4 +91,4 @@ function New_Arrivals(){
     </>)
 }
 
-export default New_Arrivals;
+export default NewArrivals;

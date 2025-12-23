@@ -5,7 +5,7 @@ import social_4 from "../assets/social-4.jpg"
 import social_5 from "../assets/social-5.jpg"
 import social_6 from "../assets/social-6.jpg"
 
-function Social_Media(){
+function SocialMedia(){
 
     return(<>
     
@@ -63,4 +63,4 @@ function Social_Media(){
         </>)
 }
 
-export default Social_Media;
+export default SocialMedia;

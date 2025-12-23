@@ -1,6 +1,6 @@
 import summer_sale_bg from "../assets/summer-sale-bg.jpg"
 
-function Summer_sale(){
+function SummerSale(){
 
     return(<>
     
@@ -43,4 +43,4 @@ function Summer_sale(){
     </>)
 }
 
-export default Summer_sale;
+export default SummerSale;
