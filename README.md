@@ -27,15 +27,15 @@ The project focuses on a **beautiful UI**, clean layout, and smooth user experie
 ## 📂 Project Structure
 
 shop.inc/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── assets/
-│ ├── App.jsx
-│ └── main.jsx
-├── public/
-├── package.json
-└── README.md
+- ├── src/
+- │ ├── components/
+- │ ├── pages/
+- │ ├── assets/
+- │ ├── App.jsx
+- │ └── main.jsx
+- ├── public/
+- ├── package.json
+- └── README.md
 
 # 🌐 Live Demo
 
