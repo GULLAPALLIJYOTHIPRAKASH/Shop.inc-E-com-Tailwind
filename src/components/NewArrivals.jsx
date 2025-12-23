@@ -1,4 +1,4 @@
-import Scarf from "../assets/Scarf.jpg";
+import scarf from "../assets/scarf.jpg";
 import leather_handbag from "../assets/leather-handbag.jpg";
 import sunglasses from "../assets/sunglasses.jpg";
 function NewArrivals(){
@@ -16,7 +16,7 @@ function NewArrivals(){
                         {/* Product-1 */}
                         <article className="single-product group">
                             <div className="img-container relative w-full  h-90 object-cover object-top overflow-hidden rounded-xl">
-                                <img src={Scarf} alt="Women's Silk Scarf" className="w-[100%] h-[100%] object-cover object-top overflow-hidden" />
+                                <img src={scarf} alt="Women's Silk Scarf" className="w-[100%] h-[100%] object-cover object-top overflow-hidden" />
                                 <p className="bg-[#4f46e5] text-xs font-normal text-white py-1 px-2 rounded-lg absolute top-4 left-4">New</p>
                                 
                                 {/* icons */}
